@@ -1,0 +1,62 @@
+[
+  {
+    "camera": "Webcam",
+    "time": "12:25:07",
+    "confidence": 0.8646997809410095,
+    "status": "Violence"
+  },
+  {
+    "camera": "Webcam",
+    "time": "12:25:13",
+    "confidence": 0.8440647721290588,
+    "status": "Violence"
+  },
+  {
+    "camera": "Webcam",
+    "time": "12:25:16",
+    "confidence": 0.882806122303009,
+    "status": "Violence"
+  },
+  {
+    "camera": "Webcam",
+    "time": "12:25:19",
+    "confidence": 0.857894241809845,
+    "status": "Violence"
+  },
+  {
+    "camera": "Webcam",
+    "time": "12:29:04",
+    "confidence": 0.9360191226005554,
+    "status": "Violence"
+  },
+  {
+    "camera": "Webcam",
+    "time": "12:29:07",
+    "confidence": 0.8269892334938049,
+    "status": "Violence"
+  },
+  {
+    "camera": "Webcam",
+    "time": "12:29:10",
+    "confidence": 0.8111185431480408,
+    "status": "Violence"
+  },
+  {
+    "camera": "Webcam",
+    "time": "12:29:23",
+    "confidence": 0.8286517858505249,
+    "status": "Violence"
+  },
+  {
+    "camera": "Webcam",
+    "time": "09:43:44",
+    "confidence": 0.8936612606048584,
+    "status": "Violence"
+  },
+  {
+    "camera": "Webcam",
+    "time": "09:43:56",
+    "confidence": 0.9105094075202942,
+    "status": "Violence"
+  }
+]

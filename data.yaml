@@ -1,0 +1,6 @@
+train: ../datasets/fight_detection/train/images
+val: ../datasets/fight_detection/valid/images
+test: ../datasets/fight_detection/test/images
+
+nc: 2
+names: ['non-violence', 'violence']
